@@ -1,0 +1,17 @@
+.description .continu-text .btn-read-more{
+    width: 50%;
+    height: 40px;
+    background-color: red;
+    border: none;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    letter-spacing: .2rem;
+    transition: 0.3s;
+}
+
+.description .continu-text .btn-read-more:hover{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    
+}

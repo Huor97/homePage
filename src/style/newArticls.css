@@ -1,0 +1,25 @@
+.new-articls{
+    width: 87%;
+}
+
+.new-articls:first-child{
+    border-bottom: solid 1px;
+}
+
+.new-articls:nth-child(2){
+    border-bottom: solid 1px;
+}
+
+.a-articls-new{
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+.a-articls-new:hover{
+    color: #DEA857;
+}
+
+.paragraph-new-article{
+    font-size: small;
+}
